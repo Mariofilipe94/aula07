@@ -1,0 +1,13 @@
+header{
+        height: 50px;
+        background-color: rgb(142, 159, 173);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: wheat;
+        position: fixed;
+        align-items: center;
+        top: 0%;
+        left:  0;
+        width: 100%;
+    
+    }
+li{display: inline-block;}
